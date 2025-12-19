@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+.hero h1 {
+  font-size: 28px;
+}
+.memories img {
+  width: 100%;
+  max-width: 600px;
+  margin: 10px 0;
+  border-radius: 12px;
+}
+footer img {
+  width: 120px;
+}
